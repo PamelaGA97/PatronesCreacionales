@@ -1,0 +1,2 @@
+# PatronesCreacionales
+#La mascota tiene un nombre, edad, dirección, teléfono y contacto. En la mayoría de los casos, son los duenhos los que tienen el teléfono fijo y la dirección. El patrón permite crear a la mascota de forma rápida, quitando la necesidad de crear los objetos que componen al mismo.
