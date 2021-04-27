@@ -1,0 +1,2 @@
+# PatronesCreacionales
+#El estudiante tiene un nombre, edad, dirección, teléfono y carrera. En la mayoría de los casos, son los padres los que tienen el teléfono fijo y la dirección. El patrón permite crear al estudiante de forma rápida, quitando la necesidad de crear los objetos que componen al mismo.
